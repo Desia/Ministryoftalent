@@ -18,3 +18,33 @@ img.displayed {
        padding-top: 40px;
        padding-bottom: 6px;
 }
+#content aside .widget {
+    margin-bottom: 30px
+}
+#content aside .widget .srodek {
+    border: 1px solid #e0e0e0;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    background: #fff;
+    width: 100%;
+    padding: 10px
+}
+#content aside .widget .srodek h2 {
+    font: 14px Exo, sans-serif;
+    color: #002440;
+    font-weight: 700;
+    text-transform: uppercase
+}
+#content aside .widget .srodek p {
+    font: 12px "Open Sans", sans-serif;
+    line-height: 19px;
+    color: #1f1f1f
+}
+#content aside .widget .srodek ul,
+#content aside .widget .srodek ol {
+    font: 12px "Open Sans", sans-serif;
+    line-height: 19px;
+    color: #1f1f1f
+
+}
+}
